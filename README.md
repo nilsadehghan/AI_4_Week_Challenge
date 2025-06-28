@@ -28,9 +28,7 @@ This repository documents my structured 4-week learning path focused on Python p
 
 ---
 
-## 📂 Project Structure
 
-📦 root/ ├── week01_salary_analysis/ │   ├── salaries_iran.csv │   ├── salary_analysis.py │   └── README.md ├── week02_pandas_projects/ │   └── ... ├── week03_visualization/ │   └── ... ├── week04_intro_ml/ │   └── ... └── README.md  ← (this file)
 
 ---
 
