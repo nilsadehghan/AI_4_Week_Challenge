@@ -10,10 +10,10 @@ This repository documents my structured 4-week learning path focused on Python p
 
 | Week | Topic                                  | Folder Name                         |
 |------|----------------------------------------|-------------------------------------|
-| 1    | Salary Data Analysis with Pandas       | `week01_salary_analysis/`           |
-| 2    | Pandas Practice & Data Cleaning        | `week02_pandas_projects/`           |
-| 3    | Visualization & Correlation Analysis   | `week03_visualization/`             |
-| 4    | Intro to Machine Learning (Scikit-Learn)| `week04_intro_ml/`                 |
+| 1    | Salary Data Analysis with Pandas and house price model       | `week01/`           |
+| 2    | Pandas Practice & Data Cleaning        | `week02`           |
+| 3    | Visualization & Correlation Analysis   | `week03`             |
+| 4    | Intro to Machine Learning (Scikit-Learn)| `week04`                 |
 
 ---
 
