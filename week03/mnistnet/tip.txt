@@ -1,0 +1,2 @@
+MSELOSS-----> regression
+crossentropy-------> classification
