@@ -1,0 +1,11 @@
+conv1d---->voice,text,1
+conv2d----->image,2
+conv3d----->video,3
+
+
+Initial Input         [1, 28, 28]
+After conv1           [32, 28, 28]
+After pool1           [32, 14, 14]
+After conv2           [64, 14, 14]
+After pool2           [64, 7, 7]
+Flatten               3136 (for FC)
